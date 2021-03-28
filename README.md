@@ -10,3 +10,11 @@ int main(void) {
   print("Hello World");
     }
     '''
+
+```c
+#include <studio.h>
+
+int main(void){
+print("Hello World");
+}
+```
